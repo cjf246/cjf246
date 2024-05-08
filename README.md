@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<span>
+  <a href="https://www.instagram.com/always_0702?igsh=MWtmNnVtZmJoaWo5Nw%3D%3D&utm_source=qr"/>
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=instagram&logoColor=white"/>
+  </a>
+</span>
+
 <!--
 **cjf246/cjf246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
